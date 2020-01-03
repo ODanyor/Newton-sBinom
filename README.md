@@ -17,4 +17,4 @@ Here is the formula for canculating combination of permutaions
 	permutaion.py #values for variables inside of permutation(n, k)
 </pre>
 #### Here is the demonstration of how does it work
-<img src="./img/permutation-notation.png" width="250" style="background-size: cover">
+<img src="./img/permutation-notation.png" width="451.4" style="background-size: cover">
